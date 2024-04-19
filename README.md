@@ -14,27 +14,27 @@ To get started with this Minesweeper game, follow these steps:
 
 1. Ensure that Python and Pygame are installed on your machine. If not, you can download Python from [python.org](https://www.python.org/) and install Pygame via pip:
 
-   \```bash
+   ```bash
    pip install pygame
-   \```
+   ```
 
 2. Clone this repository:
 
-   \```bash
+   ```bash
    git clone https://github.com/yourusername/pygame-minesweeper.git
-   \```
+   ```
 
 3. Navigate to the cloned repository:
 
-   \```bash
+   ```bash
    cd pygame-minesweeper
-   \```
+   ```
 
 4. Run the game:
 
-   \```bash
+   ```bash
    python minesweeper.py
-   \```
+   ```
 
 ## :video_game: How to Play
 
