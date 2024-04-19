@@ -21,7 +21,7 @@ To get started with this Minesweeper game, follow these steps:
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/pygame-minesweeper.git
+   git clone https://github.com//Corzed/MineSweeper.git
    ```
 
 3. Navigate to the cloned repository:
